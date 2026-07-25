@@ -78,6 +78,11 @@ img {
   border-radius: 12px;
 }
 
+.table:hover,
+.table:active {
+  color: #2b8a3e;
+}
+
 /* ------------------------ */
 /* COMPONENT STYLES */
 /* ------------------------ */
