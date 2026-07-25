@@ -173,9 +173,9 @@ a:visited {
 }
 
 a:hover {
-  color: orangered;
+  color: #74c0fc;
   font-weight: bold;
-  text-decoration: underline orangered;
+  text-decoration: underline;
 }
 
 a:active {
