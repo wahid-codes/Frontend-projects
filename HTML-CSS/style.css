@@ -216,6 +216,13 @@ button {
   right: 50px;
 }
 
+.btn:hover,
+.btn:active {
+  color: #fff;
+  background-color: #168292;
+  transition: all 0.4s;
+}
+
 h1::first-letter {
   font-style: normal;
   margin-right: 5px;
