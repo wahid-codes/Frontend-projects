@@ -35,6 +35,8 @@ Paraghraph default: 1.6
 -Accents:
 -Greys
 
+#888
+#767676 (Lightest grey allowed on #fff)
 #f7f7f7 (Lightest grey allowed on #fdf2e9)
 #555
 #333
@@ -110,6 +112,10 @@ body {
 
 .grid--4-cols {
   grid-template-columns: repeat(4, 1fr);
+}
+
+.grid--5-cols {
+  grid-template-columns: repeat(5, 1fr);
 }
 
 .grid--center-v {
