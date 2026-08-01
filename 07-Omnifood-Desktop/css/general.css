@@ -14,7 +14,7 @@ Bold: 700
 Default: 1
 Small: 1.05
 Medium: 1.2
-Paraghraph default: 1.6
+-Paragraph default: 1.6
 
 -Letter spacing 
 -0.5px
@@ -259,7 +259,7 @@ body {
   outline: none;
   /* outline: 4px dotted #e67e22;
   outline-offset: 8px; */
-  box-shadow: 0 0 0 0.8rem rgb(230, 125, 34, 0.5);
+  box-shadow: 0 0 0 0.8rem rgba(230, 125, 34, 0.5);
 }
 
 /* HELPER/SETTINGS CLASSES */
