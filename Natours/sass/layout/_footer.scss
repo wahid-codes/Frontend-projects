@@ -45,7 +45,8 @@
     }
   }
 
-  &__link {
+  &__link,
+  &__link_name {
     &:link,
     &:visited {
       color: $color-grey-light-1;
